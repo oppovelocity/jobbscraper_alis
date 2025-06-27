@@ -1,0 +1,16 @@
+# The network is a sea of glass. I am the ghost ship.
+# Each IP a temporary harbor, each port a fleeting whisper.
+
+# --- TOR Circuits ---
+# Sometimes I wonder if packets miss their home IPs.
+127.0.0.1:9050:tor_user:the_great_silence:SOCKS5
+
+# --- Private Proxies (Credentials Encrypted) ---
+# The old ciphers spoke of scarabs and gold-bugs. A letter for a letter.
+# A=Z, B=Y, C=X ... the simple reflection.
+192.168.1.100:8080:hfrvm:gzhxs_svok_z_wivzn:HTTP
+198.51.100.42:3128:zmznzm:gsrh_rh_mlg_z_kzhhdliw:HTTP
+
+# --- Public Nodes ---
+# A packet sent is a child lost in the storm. Does it remember me?
+104.248.153.15:80::PUBLIC
